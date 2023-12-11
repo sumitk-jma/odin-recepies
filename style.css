@@ -1,0 +1,39 @@
+html {
+    background-color: azure;
+    box-sizing: border-box;
+}
+
+.body {
+
+    margin: 16px auto;
+       
+}
+
+.title {
+
+    text-align: center;
+    background-color: azure;
+    margin: 0px 600px ;
+    border: 4px solid skyblue;
+    
+}
+
+.recpieList {
+
+    text-align: center;    
+}
+
+.myUL {
+
+    text-align: left;
+    display: inline-block;
+}
+
+li {
+
+    margin: 10px;
+    margin-right: 50px;
+    background-color: azure;
+    padding: 4px;
+    border: 4px solid skyblue;
+}
